@@ -1,6 +1,6 @@
 from pathlib import Path
 
-DIR_PROJECT=Path(r"../results") #You can download its contents from zenodo
+DIR_PROJECT=Path(r"../results") #You can download its contents from the release
 DIR_TRAINING=DIR_PROJECT/"Training"
 DIR_NET=DIR_TRAINING/"Net"
 DIR_TIME_AVE=DIR_PROJECT/"TimeAve"
