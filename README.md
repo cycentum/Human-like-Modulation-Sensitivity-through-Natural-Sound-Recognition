@@ -10,6 +10,7 @@ To reproduce the figures in the paper, run src/plot_[something].py. These script
 ## Files
 - [results](results): The contents can be downloaded from the release, or computed by run_[something].py in [src](src).
 - [src](src): Codes.
+- [docker](docker): Docker information for reproducing our environment.
 
 ## Acknowledgments
 This work was supported by JSPS KAKENHI Grant Number JP20H05957 (Grant-in-Aid for Transformative Research Areas (A) “Analysis and synthesis of deep SHITSUKAN information in the real world”).
