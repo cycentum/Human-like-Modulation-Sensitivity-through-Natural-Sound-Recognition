@@ -1,4 +1,4 @@
-# Human-like-Modulation-Sensitivity-through-Natural-Sound-Recognition
+# Human-like Modulation Sensitivity through Natural Sound Recognition
 Coded and results of "Human-like Modulation Sensitivity Emerging through Optimization to Natural Sound Recognition" by Takuya Koumura, Hiroki Terashima, and Shigeto Furukawa (https://doi.org/10.1101/2022.09.25.509427).
 
 ## Citation
