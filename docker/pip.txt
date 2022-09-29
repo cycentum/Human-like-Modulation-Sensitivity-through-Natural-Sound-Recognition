@@ -1,0 +1,9 @@
+dotmap
+h5py
+imageio
+more-itertools
+Pillow
+scikit-learn
+scipy
+SoundFile
+joblib
